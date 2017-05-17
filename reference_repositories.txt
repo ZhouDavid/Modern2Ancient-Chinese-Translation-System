@@ -1,0 +1,4 @@
+https://github.com/shawnxu1318/Google-Neural-Machine-Translation-GNMT-
+https://github.com/tokestermw/tensorflow-shakespeare
+https://github.com/ma2rten/seq2seq/tree/master/seq2seq
+https://github.com/keon/Seq2Seq-Tensorflow
